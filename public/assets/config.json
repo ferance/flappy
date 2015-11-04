@@ -13,7 +13,7 @@
   },
   "flappy": {
       "x": 60,
-      "width": 46,
+      "width": 64,
       "height": 64,
       "scale": 1,
       "gravity": 1200,
